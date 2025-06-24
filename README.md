@@ -6,7 +6,14 @@ This portfolio not only reflects my technical journey but also represents my cre
 
 ✨ Features
 
-✅ Fully Responsive Design (Mobile + Desktop Friendly) ✅ Clean, Minimal, and Modern UI ✅ Interactive "About Me" Section ✅ Skills Showcase with Visual Icons ✅ Projects Section ✅ Internship Section ✅ Downloadable Resume Button ✅ Social Media Integration
+✅ Fully Responsive Design (Mobile + Desktop Friendly) 
+✅ Clean, Minimal, and Modern UI
+✅ Interactive "About Me" Section 
+✅ LinkedIn and GitHub profile icons that are fully functional for easy access to my professional profiles
+✅ Skills Showcase with Visual Icons 
+✅ Projects Section 
+✅ Internship Section 
+✅ Downloadable Resume Button 
 
 ------------------------------------------------ONE ADDITIONAL FEATURE -------------------------------------------------------
 
