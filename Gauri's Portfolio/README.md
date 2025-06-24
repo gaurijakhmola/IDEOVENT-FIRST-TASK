@@ -9,6 +9,7 @@ This portfolio not only reflects my technical journey but also represents my cre
 ✅ Fully Responsive Design (Mobile + Desktop Friendly)
 ✅ Clean, Minimal, and Modern UI
 ✅ Interactive "About Me" Section
+✅ LinkedIn and GitHub profile icons that are fully functional for easy access to my professional profiles
 ✅ Skills Showcase with Visual Icons
 ✅ Projects Section 
 ✅ Internship Section 
@@ -36,19 +37,19 @@ Built With -
 
 -----------------------------------👩‍💻 How to Run This Project Locally -------------------------------------------------
 
-📥 Step 1: Clone the Repository
+📥 Step 1: Clone the Repository : 
 git clone https://github.com/gaurijakhmola/IDEOVENT-PORTFOLIO-REACT.git
 
 
-📂 Step 2: Go to the Project Folder
+📂 Step 2: Go to the Project Folder : 
 cd "IDEOVENT-PORTFOLIO-REACT/Gauri's Portfolio"
 
 
-📦 Step 3: Install Dependencies
+📦 Step 3: Install Dependencies : 
 npm install
 
 
-▶️ Step 4: Start the Project
+▶️ Step 4: Start the Project : 
 npm start
 
 
