@@ -34,5 +34,27 @@ Built With -
 ☁️  GitHub —  Hosting
 
 
+-----------------------------------👩‍💻 How to Run This Project Locally -------------------------------------------------
+
+📥 Step 1: Clone the Repository
+git clone https://github.com/gaurijakhmola/IDEOVENT-PORTFOLIO-REACT.git
+
+
+📂 Step 2: Go to the Project Folder
+cd "IDEOVENT-PORTFOLIO-REACT/Gauri's Portfolio"
+
+
+📦 Step 3: Install Dependencies
+npm install
+
+
+▶️ Step 4: Start the Project
+npm start
+
+
+
+
+
+
 
 Thank you for visiting my portfolio!
